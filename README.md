@@ -1,0 +1,3 @@
+# Travelling-Salesman
+# Problem:
+The empire has a number of cities. For communicating important messages from the capitol to other cities, a network of messengers is going to be set up. Some number of messengers will be stationed in the capitol city. Each messenger will ride to one other city, where the message will be posted in the town square, and handed off to some number of new messengers, each of whom will ride of to a different city, repeating the process. The empire’s unemployment rate is such that there are no limits placed upon the number of messengers in each city, the only goal is to get the message communicated throughout the empire as quickly as possible.
